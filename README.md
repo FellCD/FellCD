@@ -41,10 +41,3 @@ me = Developer()
 # 📌 Featured Projects
 
 - **[LearningFastAPI](https://github.com/FellCD/LearningFastAPI)** — Repository dedicated to studying the FastAPI framework, experimenting with routing, sync endpoints, and SQL integration.
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FellCD&show_icons=true&theme=dark&hide_border=true" alt="FellCD's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FellCD&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
