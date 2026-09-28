@@ -16,27 +16,35 @@ class Developer:
 me = Developer()
 ```
 
-# 🚀 About Me
+## 🚀 About Me
 
-    👨‍💻 Autodidact and Tech Enthusiast: Currently 16 years old, passionately studying software development and backend systems on my own.
+- 👨‍💻 **Autodidact and Tech Enthusiast:** Currently 16 years old, passionately studying software development and backend systems on my own.
+- 🎓 **Learning Journey:** Focused on building robust, scalable REST APIs using Python and FastAPI.
+- 🐧 **Environment:** Linux user, comfortable with Git version control and command-line interfaces.
+- 🎯 **Future Goals:** Preparing my technical foundation to land a Backend Internship when I turn 18.
 
-    🎓 Learning Journey: Focused on building robust, scalable REST APIs using Python and FastAPI.
+## 🛠️ Tech Stack and Tools
 
-    🐧 Environment: Linux user, comfortable with Git version control and command-line interfaces.
+#### **Languages, Frameworks & Databases**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-    🎯 Future Goals: Preparing my technical foundation to land a Backend Internship when I turn 18.
+#### **Tools & Environment**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-# 🛠️ Tech Stack and Tools
-Languages, Frameworks & Databases
-Tools & Environment
-📚 What I'm Currently Learning & Exploring
 
-    ⚙️ RESTful API Design: HTTP methods, status codes, query/path parameters, and request validation in FastAPI.
+# 📌 Featured Projects
 
-    🗄️ Database Fundamentals: Writing raw SQL queries, schema design, and CRUD operations using native sqlite3.
+- **[LearningFastAPI](https://github.com/FellCD/LearningFastAPI)** — Repository dedicated to studying the FastAPI framework, experimenting with routing, sync endpoints, and SQL integration.
 
-    🛠️ Next Steps: Planning to transition into asynchronous Python (async/await) and ORMs like SQLAlchemy.
+## 📊 GitHub Stats
 
-📌 Featured Projects
-
-    🐍 LearningFastAPI — Repository dedicated to studying the FastAPI framework, experimenting with routing, sync endpoints, and SQL integration.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FellCD&show_icons=true&theme=dark&hide_border=true" alt="FellCD's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FellCD&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
